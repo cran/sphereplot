@@ -1,0 +1,15 @@
+38274011c2f2412581437afe372c4a99 *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+91492370ecafdcaa4a69e2271a30c450 *R/car2sph.R
+ccab80f17884cb93ac4d5176a099844c *R/pointsphere.R
+08e1bf6d6750335fe00512e4f5663115 *R/rgl.sphgrid.R
+6a993bd510a55b767ed51f4b082efee3 *R/rgl.sphpoints.R
+d519b69ef285f275dd34b2e2018216ca *R/rgl.sphtext.R
+31b1aebdb0730b15fb09a91ad07dbca0 *R/sph2car.R
+c5f330c42d4bad0f7e5e989ec6d42ee4 *man/car2sph.Rd
+d4ee0334d895955ba2a43dbdee289d1c *man/pointsphere.Rd
+16b14e95a421c8e16694ab4a92079595 *man/rgl.sphgrid.Rd
+28986597656d64bd75d2b6ee5e3c9418 *man/rgl.sphpoints.Rd
+8e5d85ea7c92cf86f761aaf72afd02cf *man/rgl.sphtext.Rd
+a64698d73c4164e1abf86ccc7580c98c *man/sph2car.Rd
+385c3d0a68ed89b6903d5a9f555c24e0 *man/sphereplot-package.Rd
