@@ -1,7 +1,7 @@
 sph2car <-
 function(long,lat,radius=1,deg=FALSE){
     if(is.matrix(long) || is.data.frame(long)){
-        if(ncol(long) == 1){long = long}
+        if(ncol(long) == 1){long = long[,1]}
 		else	if(ncol(long) == 2){lat = long[, 2];long = long[, 1]}
 		else	if(ncol(long) == 3){radius = long[, 3];lat = long[, 2];long = long[, 1]}
 		}

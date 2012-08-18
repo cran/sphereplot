@@ -2,7 +2,7 @@
 \alias{sph2car}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-Transforms 3D spherical coordinates to cartesian coordinates.
+Transforms 3D spherical coordinates to cartesian coordinates
 }
 \description{
 Transforms 3D spherical coordinates to cartesian coordinates. The user can choose to input the spherical coordinates in degrees or radians.

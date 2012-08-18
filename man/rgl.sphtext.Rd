@@ -2,7 +2,7 @@
 \alias{rgl.sphtext}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-Add text to spherical plot.
+Add text to spherical plot
 }
 \description{
 Adds generic text to a spherical coordinate plot.

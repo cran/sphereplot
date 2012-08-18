@@ -1,0 +1,11 @@
+v1.1.1
+
+Bug Fixes:
+
+rgl.sphgrid label now display properly- previously they was a radians/ degrees mismatch.
+
+Features:
+
+Major cicrles of 0 long and 0 lat are now a slightly darker grey for clarity.
+
+Can now specify the colour of longitude and latitude labels.

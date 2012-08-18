@@ -2,13 +2,13 @@
 \alias{rgl.sphgrid}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-Create a spherical plotting grid.
+Create a spherical plotting grid
 }
 \description{
 Creates a spherical plotting grid, within which further points can be added. Useful for astronomical plotting in particular, where this becomes the celestial sphere.
 }
 \usage{
-rgl.sphgrid(radius = 1, deggap = 15, longtype = "H", add = FALSE)
+rgl.sphgrid(radius = 1, col.long='red', col.lat='blue', deggap = 15, longtype = "H", add = FALSE)
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
@@ -17,6 +17,12 @@ The radial extent of the spherical grid.
 }
   \item{deggap}{
 The attempted separation between sherical grid lines in degrees.
+}
+  \item{col.long}{
+The colour for longitude labels.
+}
+  \item{col.lat}{
+The colour for latitude labels.
 }
   \item{longtype}{
 Specifies if longitudes should be labelled in hours (H- default) or degrees (D).

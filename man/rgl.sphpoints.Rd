@@ -2,7 +2,7 @@
 \alias{rgl.sphpoints}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-Add points to spherical plots.
+Add points to spherical plots
 }
 \description{
 This function allows the native plotting of spherical coordinates (in degrees of radians) and is expected to be used in conjunction with rgl.sphgrid, which produces the spherical grid.
