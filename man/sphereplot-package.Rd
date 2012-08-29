@@ -12,11 +12,11 @@ Various low level and high level routines for generate spherical plots. Includes
 \tabular{ll}{
 Package: \tab celsphere\cr
 Type: \tab Package\cr
-Version: \tab 1.2\cr
-Date: \tab 2012-08-18\cr
+Version: \tab 1.3\cr
+Date: \tab 2012-08-29\cr
 License: \tab GPL-2\cr
 }
-Standard use is to run rgl.sphgrid to make the 3D coordinate grid, then add points using rgl.sphpoints.
+Standard usage is to run rgl.sphgrid to make the 3D coordinate grid, then add points using rgl.sphpoints.
 }
 \author{
 Aaron Robotham

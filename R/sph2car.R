@@ -5,7 +5,7 @@ function(long,lat,radius=1,deg=FALSE){
 		else	if(ncol(long) == 2){lat = long[, 2];long = long[, 1]}
 		else	if(ncol(long) == 3){radius = long[, 3];lat = long[, 2];long = long[, 1]}
 		}
-	if(missing(long) | missing(lat) | missing(radius)){stop('Missing full spherical 3D input data.')}
+	if(missing(long) | missing(lat)){stop('Missing full spherical 3D input data.')}
     if(deg){
     	long = long * pi/180
 		lat = lat * pi/180
