@@ -1,5 +1,5 @@
 car2sph <-
-function(x,y,z,deg=FALSE){
+function(x,y,z,deg=TRUE){
 	if(is.matrix(x) || is.data.frame(x)){
 		if(ncol(x) == 1){x=x[,1]}
         else	if(ncol(x) == 2){y = x[, 2];x = x[, 1]}

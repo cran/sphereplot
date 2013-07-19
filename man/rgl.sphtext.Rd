@@ -8,7 +8,7 @@ Add text to spherical plot
 Adds generic text to a spherical coordinate plot.
 }
 \usage{
-rgl.sphtext(long, lat, radius, text, deg = FALSE, col='black', ...)
+rgl.sphtext(long, lat, radius, text, deg = TRUE, col='black', ...)
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
@@ -24,7 +24,7 @@ radius values.
 text values to be plotted.
 }
   \item{deg}{
-Specifies if input is in degrees or radians (default).
+Specifies if input is in degrees (default) or radians.
 }
   \item{col}{
 Specifies text colour.
@@ -41,6 +41,10 @@ No value, used for plotting side effect.
 }
 \author{
 Aaron Robotham
+}
+
+\seealso{
+\code{\link{rgl.sphgrid}},\code{\link{rgl.sphcirc}},\code{\link{rgl.sphpoints}},\code{\link{rgl.sphsun}},\code{\link{rgl.sphMW}},\code{\link{pointsphere}},\code{\link{sph2car}},\code{\link{car2sph}}
 }
 
 \examples{

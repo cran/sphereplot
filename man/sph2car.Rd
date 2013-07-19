@@ -8,7 +8,7 @@ Transforms 3D spherical coordinates to cartesian coordinates
 Transforms 3D spherical coordinates to cartesian coordinates. The user can choose to input the spherical coordinates in degrees or radians.
 }
 \usage{
-sph2car(long, lat, radius = 1, deg = FALSE)
+sph2car(long, lat, radius = 1, deg = TRUE)
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
@@ -22,7 +22,7 @@ latitude values.
 radius values.
 }
   \item{deg}{
-Specifies if input is in degrees or radians (default).
+Specifies if input is in degrees (default) or radians.
 }
 }
 \details{
@@ -34,6 +34,10 @@ A data.frame is returned containing the columns x, y and z.
 
 \author{
 Aaron Robotham
+}
+
+\seealso{
+\code{\link{rgl.sphgrid}},\code{\link{rgl.sphcirc}},\code{\link{rgl.sphpoints}},\code{\link{rgl.sphtext}},\code{\link{rgl.sphsun}},\code{\link{rgl.sphMW}},\code{\link{pointsphere}},\code{\link{car2sph}}
 }
 
 \examples{

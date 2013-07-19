@@ -36,6 +36,10 @@ Returns a data.frame comtaining the longitude, latitude and radius of the random
 Aaron Robotham
 }
 
+\seealso{
+\code{\link{rgl.sphgrid}},\code{\link{rgl.sphcirc}},\code{\link{rgl.sphpoints}},\code{\link{rgl.sphtext}},\code{\link{rgl.sphsun}},\code{\link{rgl.sphMW}},\code{\link{sph2car}},\code{\link{car2sph}}
+}
+
 \examples{
 rgl.sphgrid()
 rgl.sphpoints(pointsphere(100,c(0,90),c(0,45),c(0.25,0.8)),deg=TRUE)
