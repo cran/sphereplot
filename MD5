@@ -1,11 +1,11 @@
-e8d5ce805d98bf84bab357569848bd6d *DESCRIPTION
+f95e4aa9ff3fde9cbca2e515760557ff *DESCRIPTION
 8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
-c395995a7e86fc38640e453f9a0d29c1 *NEWS
+32ebc347a61103e28f1b368f0d59f283 *NEWS
 45692a4065c8bd19bf6622699aab8828 *R/car2sph.R
-ccab80f17884cb93ac4d5176a099844c *R/pointsphere.R
+6ff8aa94017c373909aaeb1354a81d6a *R/pointsphere.R
 aea6389302e5d2bed972fd40c2a25218 *R/rgl.sphMW.R
 0cf524335701d125e28c8245cf1d60ba *R/rgl.sphcirc.R
-fb3e783a7c4f69dbf90240e8208d8651 *R/rgl.sphgrid.R
+626551ac041ae0d78a1d9ad71cbb1055 *R/rgl.sphgrid.R
 6a993bd510a55b767ed51f4b082efee3 *R/rgl.sphpoints.R
 427f6e93e65fc3570a0335560ba5717b *R/rgl.sphsun.R
 2b1820d244f1f877b67245ceaa3706ad *R/rgl.sphtext.R
@@ -14,9 +14,9 @@ c14447823b5e3423743b08de8675d25e *man/car2sph.Rd
 7fc800fbb31740441fb0d26dcdad5aba *man/pointsphere.Rd
 9319dd5ea14d53b84bb30fad19a614af *man/rgl.sphMW.Rd
 b9acebba29e04042db9546cafbf403c3 *man/rgl.sphcirc.Rd
-8200cb09e18ccf89ad59a1d34096f602 *man/rgl.sphgrid.Rd
+7549feac8f121cb32fae4237f0ecfc47 *man/rgl.sphgrid.Rd
 41c9afb9081898e4383c641f9a9ee4ae *man/rgl.sphpoints.Rd
 13356ff4fcfdd1bfac075a2caab251cc *man/rgl.sphsun.Rd
 719cd6a8d9f3612374bba7bc9847aded *man/rgl.sphtext.Rd
 bf8db86729d10168c37f646087faea91 *man/sph2car.Rd
-524ac333850b57785c5c86ab9d83bacc *man/sphereplot-package.Rd
+80fe79be83f716cfe67bd352e0373857 *man/sphereplot-package.Rd
