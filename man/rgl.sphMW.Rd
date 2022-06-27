@@ -48,4 +48,3 @@ rgl.sphMW()
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.
 \keyword{galactic}
-\keyword{ ~kwd2 }% __ONLY ONE__ keyword per line

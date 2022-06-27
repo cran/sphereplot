@@ -1,5 +1,5 @@
-f95e4aa9ff3fde9cbca2e515760557ff *DESCRIPTION
-8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+e4516b162318a155c2569388850f281b *DESCRIPTION
+fdbfb48a8775c55a0e2e3a399bcfaacc *NAMESPACE
 32ebc347a61103e28f1b368f0d59f283 *NEWS
 45692a4065c8bd19bf6622699aab8828 *R/car2sph.R
 6ff8aa94017c373909aaeb1354a81d6a *R/pointsphere.R
@@ -12,7 +12,7 @@ aea6389302e5d2bed972fd40c2a25218 *R/rgl.sphMW.R
 ca8e0f8821957cbac0ea46d5cc1415ed *R/sph2car.R
 c14447823b5e3423743b08de8675d25e *man/car2sph.Rd
 7fc800fbb31740441fb0d26dcdad5aba *man/pointsphere.Rd
-9319dd5ea14d53b84bb30fad19a614af *man/rgl.sphMW.Rd
+25c2c098dde46da2ebe39cd0ac3ea7d3 *man/rgl.sphMW.Rd
 b9acebba29e04042db9546cafbf403c3 *man/rgl.sphcirc.Rd
 7549feac8f121cb32fae4237f0ecfc47 *man/rgl.sphgrid.Rd
 41c9afb9081898e4383c641f9a9ee4ae *man/rgl.sphpoints.Rd
